@@ -1,5 +1,4 @@
 "use client";
-
 import { useState } from "react";
 import { ArrowUpDown, ChevronDown, DollarSign, Euro, PoundSterling, Yen, TrendingUp, TrendingDown } from "lucide-react";
 
